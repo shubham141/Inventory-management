@@ -4,15 +4,25 @@ Image result for inventory management Inventory management is the supervision of
 This piece of work is done in 10 phase
 
 ********splashscreen
+
 ********createuser
+
 ********loginscr
+
 ********tblstock
+
 ********stockupdatescr
+
 ********issuescr
+
 ********recieptscr
+
 ********menu
+
 ********emprepo2
+
 ********report
 
 Load the files
+
 The output is generated
