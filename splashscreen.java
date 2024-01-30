@@ -15,7 +15,7 @@ public class splashscreen extends  JFrame{
 		l1.setForeground(Color.black);
 		l1.setFont(f1);
 		l1.setBounds(00,200,200,100);
-		l2 = new JLabel("Vasundhra Aggarwal");
+		l2 = new JLabel("Shubha Gupta");
 		Font f2 = new Font("Brush Script MT",Font.PLAIN,25);
 		l2.setFont(f2);
 		l2.setBounds(130,200,300,100);
